@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "gatsby-adapter-netlify": "^1.1.1"
+    "gatsby-adapter-netlify": "^1.1.1",
+    "gatsby-plugin-netlify": "^5.1.1"
   }
 }
