@@ -16,7 +16,7 @@ const FooterPage = () => {
                         <a href="#" class="hover:underline me-4 md:me-6">Privacy Policy</a>
                     </li>
                     <li>
-                        <a href="#" class="hover:underline me-4 md:me-6">Impressum</a>
+                        <a href="/impressum" class="hover:underline me-4 md:me-6">Impressum</a>
                     </li>
                     <li>
                         <a href="/kontakt" class="hover:underline">Kontankt</a>
