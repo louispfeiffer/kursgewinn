@@ -129,7 +129,7 @@ const ImpressumPage = () => {
                         </div>
                         <div class="mb-4">
                             <h2 class="text-lg font-semibold">Haftungsausschluss – Disclaimer:</h2>
-                            <p>Haftung für Inhalte<br>Alle Inhalte unseres Internetauftritts wurden mit größter Sorgfalt und nach bestem Gewissen erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. ...
+                            <p>Haftung für Inhalte<br></br>Alle Inhalte unseres Internetauftritts wurden mit größter Sorgfalt und nach bestem Gewissen erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. ...
                                 [Weiterer Text des Haftungsausschlusses] ...</p>
                         </div>
                         <div class="mb-4">
