@@ -90,6 +90,6 @@ const PodcastPage = () => {
 
 export default PodcastPage
 
-export const Head = () => <title>home</title>
+export const Head = () => <title>Schon gehört?</title>
 
 

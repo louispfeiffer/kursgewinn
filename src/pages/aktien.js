@@ -265,4 +265,4 @@ const AktienPage = () => {
 
 export default AktienPage
 
-export const Head = () => <title>home</title>
+export const Head = () => <title>Aktien</title>

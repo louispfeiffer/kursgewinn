@@ -307,4 +307,4 @@ const IndexPage = () => {
 
 export default IndexPage
 
-export const Head = () => <title>home</title>
+export const Head = () => <title>Kursgewinn</title>

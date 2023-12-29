@@ -65,4 +65,4 @@ const KontaktPage = () => {
 
 export default KontaktPage
 
-export const Head = () => <title>home</title>
+export const Head = () => <title>Schreib mir!</title>

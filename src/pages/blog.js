@@ -63,4 +63,4 @@ const BlogPage = () => {
 
 export default BlogPage
 
-export const Head = () => <title>home</title>
+export const Head = () => <title>Blog</title>
