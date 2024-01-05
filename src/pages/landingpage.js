@@ -3,9 +3,9 @@ import NavBar from "./navbar"
 import Header from "./header"
 import FooterPage from "./footer"
 import B1 from "../images/B1.webp"
-import employe_1 from "../images/emp1"
-import employe_2 from "../images/emp2"
-import employe_3 from "../images/emp3"
+import employe_1 from "../images/emp1.webp"
+import employe_2 from "../images/emp2.webp"
+import employe_3 from "../images/emp3.webp"
 import ABC from "../images/247_new.webp"
 import yt_thumb from "../images/YouTube Thumbnail Podcast mit Modifox (HD).webp"
 import Beratung from "../images/Beratung_new.webp"
@@ -181,7 +181,7 @@ const IndexPage = () => {
 
             <div className="bg-accent rounded-lg drop-shadow-2xl lg:p-2 border-2 border-accent hover:border-2 hover:border-secondary">
               <h2 className="ml-2 mb-4 text-lg font-extrabold tracking-tight leading-none text-gray-900 md:text-xl lg:text-4xl dark:text-white mt-2">Clara Green</h2>
-              <img class="h-60 w-full p-2 rounded-2xl drop-shadow-lg" src={B1} alt="Hier ist ein Bild"></img>
+              <img class="h-60 w-full p-2 rounded-2xl drop-shadow-lg" src={emp1} alt="Hier ist ein Bild"></img>
               <p className="m-2 h-20">Relationship Manager</p>
               <div className="flex justify-end">
                 <a href="/kontakt" class="w-full mx-2 mb-2 inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-secondary border-2 border-secondary hover:drop-shadow-lg focus:ring-4 dark:bg-primary">
@@ -196,7 +196,7 @@ const IndexPage = () => {
             <div className="bg-accent rounded-lg drop-shadow-2xl lg:p-2 border-2 border-accent hover:border-2 hover:border-secondary">
               <div>
                 <h2 className="ml-2 mb-4 text-lg font-extrabold tracking-tight leading-none text-gray-900 md:text-xl lg:text-4xl dark:text-white mt-2">Louis Pfeiffer</h2>
-                <img class="h-60 w-full p-2 rounded-2xl drop-shadow-lg" src={B1} alt="Hier ist ein Bild"></img>
+                <img class="h-60 w-full p-2 rounded-2xl drop-shadow-lg" src={emp2} alt="Hier ist ein Bild"></img>
                 <p className="m-2 h-20">CEO</p>
                 <div className="flex justify-end">
                   <a href="kontakt" class="w-full mx-2 mb-2 inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-secondary border-2 border-secondary hover:drop-shadow-lg focus:ring-4 dark:bg-primary">
@@ -212,7 +212,7 @@ const IndexPage = () => {
             <div className="bg-accent rounded-lg drop-shadow-2xl lg:p-2 border-2 border-accent hover:border-2 hover:border-secondary">
               <div>
                 <h2 className="ml-2 mb-4 text-lg font-extrabold tracking-tight leading-none text-gray-900 md:text-xl lg:text-4xl dark:text-white mt-2">Chris Hamosie</h2>
-                <img class="h-60 w-full p-2 rounded-2xl drop-shadow-lg" src={B1} alt="Hier ist ein Bild"></img>
+                <img class="h-60 w-full p-2 rounded-2xl drop-shadow-lg" src={emp3} alt="Hier ist ein Bild"></img>
                 <p className="m-2 h-20">Head of Finance</p>
                 <div className="flex justify-end">
                   <a href="kontakt" class="w-full mx-2 mb-2 inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-secondary border-2 border-secondary hover:drop-shadow-lg focus:ring-4 dark:bg-primary">
