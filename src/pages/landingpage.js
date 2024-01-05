@@ -2,15 +2,15 @@ import * as React from "react"
 import NavBar from "./navbar"
 import Header from "./header"
 import FooterPage from "./footer"
-import B1 from "../images/B1.webp"
+import text from "../images/text_img.webp"
 import employe_1 from "../images/emp1.webp"
 import employe_2 from "../images/emp2.webp"
 import employe_3 from "../images/emp3.webp"
-import ABC from "../images/247_new.webp"
 import yt_thumb from "../images/YouTube Thumbnail Podcast mit Modifox (HD).webp"
-import Beratung from "../images/Beratung_new.webp"
-import Verwaltung from "../images/Verwaltung_new.webp"
-import Netzwerk from "../images/Netzwerk_new.webp"
+import ABC from "../images/247_resized.webp"
+import Beratung from "../images/Beratung_resized.webp"
+import Verwaltung from "../images/Verwaltung_resized.webp"
+import Netzwerk from "../images/Netzwerk_resized.webp"
 import { FaInstagram } from "react-icons/fa";
 import { FaTiktok } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
@@ -260,7 +260,7 @@ const IndexPage = () => {
         <div class="py-8 px-4 mx-auto lg:w-2/3 lg:py-16 grid lg:grid-cols-2 gap-8 lg:gap-16">
 
           <div className="flex">
-            <img class="h-60 w-full rounded-lg drop-shadow-lg" src={B1} alt="Hier ist ein Bild"></img>
+            <img class="h-60 w-full rounded-lg drop-shadow-lg" src={text} alt="Hier ist ein Bild"></img>
           </div>
 
           <div className="md:mt-10 lg:mt-1">
@@ -286,7 +286,7 @@ const IndexPage = () => {
           </div>
 
           <div className="flex">
-            <img class="h-60 w-full rounded-lg drop-shadow-lg" src={B1} alt="Hier ist ein Bild" href="https://youtu.be/5d1tHkAXCCA?si=T8mKI4wohRnOowtM"></img>
+            <img class="h-60 w-full rounded-lg drop-shadow-lg" src={text} alt="Hier ist ein Bild" href="https://youtu.be/5d1tHkAXCCA?si=T8mKI4wohRnOowtM"></img>
           </div>
 
         </div>
