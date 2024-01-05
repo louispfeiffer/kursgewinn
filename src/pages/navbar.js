@@ -20,7 +20,7 @@ function NavBar() {
           <img src="" class="h-8" alt="Kursgewinn Logo" />
           <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Kursgewinn</span>
         </a>
-        <button onClick={toggleMenu} data-collapse-toggle="mobile-menu" type="button" class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-black rounded-lg md:hidden focus:ring-accent focus:bg-white  dark:text-white" aria-controls="mobile-menu" aria-expanded="false">
+        <button onClick={toggleMenu} id="mobile-menu" data-collapse-toggle="mobile-menu" type="button" class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-black rounded-lg md:hidden focus:ring-accent focus:bg-white  dark:text-white" aria-controls="mobile-menu" aria-expanded="false">
           <svg class="w-5 h-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 17 14">
             <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 1h15M1 7h15M1 13h15" />
           </svg>

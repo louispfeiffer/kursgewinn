@@ -280,7 +280,7 @@ const IndexPage = () => {
         </div>
 
         <div className="flex">
-          <img class="h-60 w-full rounded-lg drop-shadow-lg" src={B1} alt="Hier ist ein Bild" href="https://www.youtube.com/watch?v=5d1tHkAXCCA&t=12s"></img>
+          <img class="h-60 w-full rounded-lg drop-shadow-lg" src={B1} alt="Hier ist ein Bild" href="https://youtu.be/5d1tHkAXCCA?si=T8mKI4wohRnOowtM"></img>
         </div>
 
       </div>
