@@ -25,7 +25,7 @@ function NavBar() {
             <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 1h15M1 7h15M1 13h15" />
           </svg>
         </button>
-        <div class="hidden md:flex w-full md:w-auto" id="mobile-menu">
+        <div class="hidden md:flex w-full md:w-auto" id="mobile-menu-dropdown">
           <ul class="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-8 p-4 md:p-0 mt-4 md:mt-0 border-gray-100 md:border-0 bg-gray-50 md:bg-transparent dark:bg-gray-800 md:dark:bg-transparent rounded-lg md:rounded-none">
             <li className='lg:bg-white border-2 border-bg-secondary rounded-lg h-10 p-2'>
               <a href="/landingpage" class="block text-center md:text-left px-3 text-black font-extrabold rounded dark:text-white">Home</a>
