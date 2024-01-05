@@ -51,8 +51,8 @@ const BlogPage = () => {
                         <div class="relative w-full">
                             <img class="w-full rounded-lg drop-shadow-2xl" src={Nvidia} alt="Hier ist ein Bild"></img>
                             <div class="absolute top-0 left-0 w-full h-full bg-black hover:bg-opacity-0 bg-opacity-20 rounded-lg flex items-center justify-center">
-                                <div class="text-white text-xl font-black px-4 py-2 text-center">
-                                    Kurzer Call to Action für den Blog
+                                <div class="text-white text-xl font-black px-4 py-2 text-center hover:dropshadow-lg">
+                                    Kurzer Call to Action für den Blog das ist ein dropshadow test
                                 </div>
                             </div>
                         </div>
