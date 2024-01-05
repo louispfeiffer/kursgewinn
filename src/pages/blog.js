@@ -43,27 +43,83 @@ const BlogPage = () => {
                             <img class="w-full rounded-lg drop-shadow-2xl" src={AppleHeadQ} alt="Hier ist ein Bild" />
                             <div class="absolute top-0 left-0 w-full h-full bg-black bg-opacity-50 rounded-lg flex items-center justify-center">
                                 <div class="text-white px-4 py-2 text-center">
-                                    Hier steht Ihr Lückenfülltext.
+                                    Kurzer Call to Action für den Blog
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="relative w-full">
+                            <img class="w-full rounded-lg drop-shadow-2xl" src={Nvidia} alt="Hier ist ein Bild"></img>
+                            <div class="absolute top-0 left-0 w-full h-full bg-black bg-opacity-50 rounded-lg flex items-center justify-center">
+                                <div class="text-white px-4 py-2 text-center">
+                                    Kurzer Call to Action für den Blog
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="relative w-full">
+                            <img class="w-full rounded-lg drop-shadow-2xl" src={Disney} alt="Hier ist ein Bild"></img>
+                            <div class="absolute top-0 left-0 w-full h-full bg-black bg-opacity-50 rounded-lg flex items-center justify-center">
+                                <div class="text-white px-4 py-2 text-center">
+                                    Kurzer Call to Action für den Blog
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="relative w-full">
+                            <img class="w-full rounded-lg drop-shadow-2xl" src={TTE} alt="Hier ist ein Bild"></img>
+                            <div class="absolute top-0 left-0 w-full h-full bg-black bg-opacity-50 rounded-lg flex items-center justify-center">
+                                <div class="text-white px-4 py-2 text-center">
+                                    Kurzer Call to Action für den Blog
                                 </div>
                             </div>
                         </div>
 
 
-                        <img class="w-full rounded-lg drop-shadow-2xl" src={Nvidia} alt="Hier ist ein Bild"></img>
+                        <div class="relative w-full">
+                            <img class="w-full rounded-lg drop-shadow-2xl" src={AppleHeadQ} alt="Hier ist ein Bild" />
+                            <div class="absolute top-0 left-0 w-full h-full bg-black bg-opacity-50 rounded-lg flex items-center justify-center">
+                                <div class="text-white px-4 py-2 text-center">
+                                    Kurzer Call to Action für den Blog
+                                </div>
+                            </div>
+                        </div>
 
-                        <img class="w-full rounded-lg drop-shadow-2xl" src={Disney} alt="Hier ist ein Bild"></img>
+                        <div class="relative w-full">
+                            <img class="w-full rounded-lg drop-shadow-2xl" src={Nvidia} alt="Hier ist ein Bild"></img>
+                            <div class="absolute top-0 left-0 w-full h-full bg-black bg-opacity-50 rounded-lg flex items-center justify-center">
+                                <div class="text-white px-4 py-2 text-center">
+                                    Kurzer Call to Action für den Blog
+                                </div>
+                            </div>
+                        </div>
 
-                        <img class="w-full rounded-lg drop-shadow-2xl" src={TTE} alt="Hier ist ein Bild"></img>
+                        <div class="relative w-full">
+                            <img class="w-full rounded-lg drop-shadow-2xl" src={Disney} alt="Hier ist ein Bild"></img>
+                            <div class="absolute top-0 left-0 w-full h-full bg-black bg-opacity-50 rounded-lg flex items-center justify-center">
+                                <div class="text-white px-4 py-2 text-center">
+                                    Kurzer Call to Action für den Blog
+                                </div>
+                            </div>
+                        </div>
 
-                        <img class="w-full rounded-lg drop-shadow-2xl" src={AppleHeadQ} alt="Hier ist ein Bild"></img>
+                        <div class="relative w-full">
+                            <img class="w-full rounded-lg drop-shadow-2xl" src={TTE} alt="Hier ist ein Bild"></img>
+                            <div class="absolute top-0 left-0 w-full h-full bg-black bg-opacity-50 rounded-lg flex items-center justify-center">
+                                <div class="text-white px-4 py-2 text-center">
+                                    Kurzer Call to Action für den Blog
+                                </div>
+                            </div>
+                        </div>
 
-                        <img class="w-full rounded-lg drop-shadow-2xl" src={Nvidia} alt="Hier ist ein Bild"></img>
-
-                        <img class="w-full rounded-lg drop-shadow-2xl" src={Disney} alt="Hier ist ein Bild"></img>
-
-                        <img class="w-full rounded-lg drop-shadow-2xl" src={TTE} alt="Hier ist ein Bild"></img>
-
-                        <img class="w-full rounded-lg drop-shadow-2xl" src={AppleHeadQ} alt="Hier ist ein Bild"></img>
+                        <div class="relative w-full">
+                            <img class="w-full rounded-lg drop-shadow-2xl" src={TTE} alt="Hier ist ein Bild"></img>
+                            <div class="absolute top-0 left-0 w-full h-full bg-black bg-opacity-50 rounded-lg flex items-center justify-center">
+                                <div class="text-white px-4 py-2 text-center">
+                                    Kurzer Call to Action für den Blog
+                                </div>
+                            </div>
+                        </div>
 
                     </div>
                 </div>
