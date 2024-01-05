@@ -20,7 +20,7 @@ import { FaThreads } from "react-icons/fa6";
 const IndexPage = () => {
   return (
     <html lang="de">
-      
+
       <Header></Header>
 
       <body>
@@ -28,7 +28,7 @@ const IndexPage = () => {
 
         <section class="z-0">
           <div class="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16">
-            <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">Investiere in deine Zukunft - Hello</h1>
+            <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">Investiere in deine Zukunft</h1>
             <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 lg:px-48 dark:text-gray-400">Fange jetzt an in deine Zukunft zu investieren. Wir helfen dir die richtigen Entscheidungen zu treffen. Kontaktiere uns, um mehr zu erfahren.</p>
             <div class="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0">
               <a href="#" class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white hover:text-black rounded-lg bg-secondary hover:bg-primary border-2 border-secondary hover:border-primary hover:drop-shadow-2xl">

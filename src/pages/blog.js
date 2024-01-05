@@ -39,7 +39,12 @@ const BlogPage = () => {
                 <div class="flex justify-center">
                     <div class="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-3 w-3/4 gap-8">
 
-                        <img class="w-full rounded-lg drop-shadow-2xl" src={AppleHeadQ} alt="Hier ist ein Bild"></img>
+                        <div class="relative w-full">
+                            <img class="w-full rounded-lg drop-shadow-2xl" src={AppleHeadQ} alt="Hier ist ein Bild" />
+                            <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-black bg-opacity-50 text-white px-4 py-2 rounded text-center">
+                                Hier steht Ihr Lückenfülltext.
+                            </div>
+                        </div>
 
                         <img class="w-full rounded-lg drop-shadow-2xl" src={Nvidia} alt="Hier ist ein Bild"></img>
 
