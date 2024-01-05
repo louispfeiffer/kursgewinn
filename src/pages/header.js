@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-function NavBar() {
+function Header() {
 
 
 
@@ -17,6 +17,4 @@ function NavBar() {
     )
 }
 
-export default NavBar
-
-export const Head = () => <title>home</title>
+export default Header

@@ -1,6 +1,7 @@
 import * as React from "react"
 import NavBar from "./navbar"
 import FooterPage from "./footer"
+import Header from "./header"
 import B1 from "../images/B1.webp"
 import B2 from "../images/B2.webp"
 import B3 from "../images/B3.webp"
@@ -12,6 +13,9 @@ import Nvidia from "../images/Nvidia.webp"
 const AktienPage = () => {
     return (
         <html>
+
+            <Header></Header>
+
             <body>
                 <NavBar></NavBar>
 

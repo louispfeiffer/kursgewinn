@@ -1,12 +1,14 @@
 import * as React from "react"
 import NavBar from "./navbar"
 import FooterPage from "./footer"
+import Header from "./header"
 import ABC from "../images/247.webp"
 
 
 const PodcastPage = () => {
     return (
         <html>
+            <Header></Header>
             <body>
                 <NavBar></NavBar>
 

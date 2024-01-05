@@ -1,6 +1,7 @@
 import * as React from "react"
 import NavBar from "./navbar"
 import FooterPage from "./footer"
+import Header from "./header";
 import { FaInstagram } from "react-icons/fa";
 import { FaTiktok } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
@@ -12,6 +13,9 @@ import { FaThreads } from "react-icons/fa6";
 const KontaktPage = () => {
   return (
     <html>
+
+      <Header></Header>
+
       <body>
         <NavBar></NavBar>
 

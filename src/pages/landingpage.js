@@ -1,5 +1,6 @@
 import * as React from "react"
 import NavBar from "./navbar"
+import Header from "./header"
 import FooterPage from "./footer"
 import B1 from "../images/B1.webp"
 import B2 from "../images/B2.webp"
@@ -19,11 +20,8 @@ import { FaThreads } from "react-icons/fa6";
 const IndexPage = () => {
   return (
     <html lang="de">
-      <head>
-        <meta property="og:title" content="Kursgewinn-Finanzen" />
-        <meta property="og:description" content="Unser Team hilft dir, deine Finanzen zu kontrollieren" />
-        <meta name="description" content="Unser Team hilft dir, deine Finanzen zu kontrollieren"></meta>
-      </head>
+      
+      <Header></Header>
 
       <body>
         <NavBar class="z-50 relative"></NavBar>
