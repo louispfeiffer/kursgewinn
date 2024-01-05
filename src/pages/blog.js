@@ -41,10 +41,13 @@ const BlogPage = () => {
 
                         <div class="relative w-full">
                             <img class="w-full rounded-lg drop-shadow-2xl" src={AppleHeadQ} alt="Hier ist ein Bild" />
-                            <div class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 bg-black bg-opacity-50 text-white px-4 py-2 rounded text-center">
-                                Hier steht Ihr Lückenfülltext.
+                            <div class="absolute top-0 left-0 w-full h-full bg-black bg-opacity-50 rounded-lg flex items-center justify-center">
+                                <div class="text-white px-4 py-2 text-center">
+                                    Hier steht Ihr Lückenfülltext.
+                                </div>
                             </div>
                         </div>
+
 
                         <img class="w-full rounded-lg drop-shadow-2xl" src={Nvidia} alt="Hier ist ein Bild"></img>
 
