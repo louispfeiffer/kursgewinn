@@ -4,10 +4,11 @@ import FooterPage from "./footer"
 import B1 from "../images/B1.webp"
 import B2 from "../images/B2.webp"
 import B3 from "../images/B3.webp"
-import ABC from "../images/247.webp"
-import Beratung from "../images/Beratung.webp"
-import Verwaltung from "../images/Verwaltung.webp"
-import Netzwerk from "../images/Netzwerk.webp"
+import ABC from "../images/247_new.webp"
+import yt_thumb from "../images/YouTube Thumbnail Podcast mit Modifox (HD).webp"
+import Beratung from "../images/Beratung_new.webp"
+import Verwaltung from "../images/Verwaltung_new.webp"
+import Netzwerk from "../images/Netzwerk_new.webp"
 import { FaInstagram } from "react-icons/fa";
 import { FaTiktok } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
@@ -146,9 +147,10 @@ const IndexPage = () => {
 
             </div>
           </div>
-          <div id="placeholder">
-            <img src="https://i.ytimg.com/an_webp/5d1tHkAXCCA/mqdefault_6s.webp?du=3000&sqp=CICO26wG&rs=AOn4CLDtyCDBx1tkkx39qI5K1DHZD3x22w" alt="Youtoube Thumnail"/>
+          <div id="placeholder" class="h-full w-full">
+            <img class="h-full w-full object-cover" src={yt_thumb} alt="YouTube Thumbnail" />
           </div>
+
         </div>
         <div id="player"></div>
       </div>
@@ -278,7 +280,7 @@ const IndexPage = () => {
         </div>
 
         <div className="flex">
-          <img class="h-60 w-full rounded-lg drop-shadow-lg" src={B1} alt="Hier ist ein Bild"></img>
+          <img class="h-60 w-full rounded-lg drop-shadow-lg" src={B1} alt="Hier ist ein Bild" href="https://www.youtube.com/watch?v=5d1tHkAXCCA&t=12s"></img>
         </div>
 
       </div>
