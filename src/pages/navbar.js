@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import logo from "../images/logo.webp"
 
 function NavBar() {
   function toggleMenu() {
@@ -17,7 +18,7 @@ function NavBar() {
     <nav class="z-50 relative sticky top-2 bg-white drop-shadow-xl mx-2 rounded-lg opacity-80 hover:opacity-100">
       <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
         <a href="#" class="flex items-center space-x-3 rtl:space-x-reverse">
-          <img src="" class="h-8" alt="Kursgewinn Logo" />
+          <img src={logo} class="h-8" alt="Kursgewinn Logo" />
           <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Kursgewinn</span>
         </a>
         <button onClick={toggleMenu} id="mobile-menu" data-collapse-toggle="mobile-menu" type="button" class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-black rounded-lg md:hidden focus:ring-accent focus:bg-white  dark:text-white" aria-controls="mobile-menu" aria-expanded="false">
