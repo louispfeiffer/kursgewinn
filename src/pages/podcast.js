@@ -15,7 +15,7 @@ const PodcastPage = () => {
                 <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 grid lg:grid-cols-2 gap-8 lg:gap-16">
                     <div class="flex flex-col justify-center">
                         <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white">Podcast jetzt auf Youtube und Spotify</h1>
-                        <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl dark:text-gray-400">Here at Flowbite we focus on markets where technology, innovation, and capital can unlock long-term value and drive economic growth.</p>
+                        <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl dark:text-gray-400">HDer Schuh für drinnen und draußen! Der neue Podcast ist jetzt auf YouTube verfügbar. Es ging um viel Geld, Gesetzesänderungen und Mega-Yachten.</p>
                         <div class="flex flex-col space-y-4 sm:flex-row sm:space-y-0">
                             <a href="#" class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white hover:text-black rounded-lg bg-secondary hover:bg-primary border-2 border-secondary hover:border-primary hover:drop-shadow-2xl">
                                 Zum Video
