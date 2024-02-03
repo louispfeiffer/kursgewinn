@@ -7,10 +7,10 @@ import employe_1 from "../images/Alex_Bramer2.webp"
 import employe_2 from "../images/Alex_Bramer2.webp"
 import employe_3 from "../images/Clara_Green2.webp"
 import yt_thumb from "../images/YouTube Thumbnail Podcast mit Modifox (HD).webp"
-import ABC from "../images/247_resized.webp"
-import Beratung from "../images/Beratung_resized.webp"
-import Verwaltung from "../images/Verwaltung_resized.webp"
-import Netzwerk from "../images/Netzwerk_resized.webp"
+import ABC from "../images/Service1.webp"
+import Beratung from "../images/News1.webp"
+import Verwaltung from "../images/Analysen1.webp"
+import Netzwerk from "../images/Netzwerk1.webp"
 import { FaInstagram } from "react-icons/fa";
 import { FaTiktok } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
